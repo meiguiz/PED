@@ -8,10 +8,10 @@ The code has been tested under
 - Ubuntu 20.04 + NVIDIA GeForce RTX 3060 (CUDA 11.1)
 - PyTorch 1.9.0
 
-## Experiments
+### Experiments
 ---
 The video of 6-Dof robotic experiments can be found at [this](https://youtu.be/wmkyNy8f5O0). 
-
+---
 
 ### Dataset Preparation
 
