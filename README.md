@@ -9,8 +9,10 @@ The code has been tested under
 - PyTorch 1.9.0
 
 ### Experiments
+
 ---
 The video of 6-Dof robotic experiments can be found at [this](https://youtu.be/wmkyNy8f5O0). 
+
 ---
 
 ### Dataset Preparation
