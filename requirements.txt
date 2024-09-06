@@ -10,3 +10,4 @@ OpenEXR
 argparse
 opencv-python
 opencv-contrib-python
+pytorch_wavelets
