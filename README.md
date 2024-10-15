@@ -2,6 +2,8 @@
 
 ## The paper is currently under review and all code will be made public.
 
+![图片4](https://github.com/user-attachments/assets/350f8faa-8e3f-441e-aa8c-150ace1c54bc)
+
 ## Requirements
 
 The code has been tested under
@@ -13,6 +15,8 @@ The code has been tested under
 
 ---
 The video of 6-Dof robotic experiments can be found at [this](https://youtu.be/wmkyNy8f5O0). 
+
+![图片1](https://github.com/user-attachments/assets/4adee08f-cf99-4963-9f76-7e3ced54fd7a)
 
 ---
 
