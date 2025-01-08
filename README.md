@@ -1,5 +1,4 @@
-# PED: A Lightweight Prior-Encoding-Decoding Cascaded Depth Completion Framework for Robotic Grasping of Transparent Objects
-
+# A Lightweight Prior-Encoding-Decoding Cascade Framework for Robust Depth Completion in Robotic Grasping of Transparent Objects Using RGB-D Sensors
 ## The paper is currently under review and all code will be made public.
 
 ![图片4](https://github.com/user-attachments/assets/350f8faa-8e3f-441e-aa8c-150ace1c54bc)
