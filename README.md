@@ -28,6 +28,14 @@ The video of 6-Dof robotic experiments and object sorting experiments can be fou
 - **Omniverse Object Dataset**: See [implicit-depth official repository](https://github.com/NVlabs/implicit_depth);
 
 
+### module Preparation
+
+```
+pip install pytorch_wavelets
+
+```
+
+
 ### Training
 
 ```
