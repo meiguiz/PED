@@ -1,5 +1,6 @@
 # A Lightweight Prior-Encoding-Decoding Cascade Framework for Robust Depth Completion in Robotic Grasping of Transparent Objects Using RGB-D Sensors
-## The paper is currently under review and all code will be made public.
+## The project is available at: [this](https://sites.google.com/view/project-ped)
+
 
 ![图片4](https://github.com/user-attachments/assets/350f8faa-8e3f-441e-aa8c-150ace1c54bc)
 
@@ -16,6 +17,7 @@ The code has been tested under
 The video of 6-Dof robotic experiments and object sorting experiments can be found at [this](https://www.youtube.com/watch?v=34z3rwaktbU). 
 
 ![图片1](https://github.com/user-attachments/assets/4adee08f-cf99-4963-9f76-7e3ced54fd7a)
+
 ![图片2](https://github.com/user-attachments/assets/f2173aba-d94b-4bb3-a249-7334e4a1f5b7)
 
 
@@ -28,7 +30,7 @@ The video of 6-Dof robotic experiments and object sorting experiments can be fou
 - **Omniverse Object Dataset**: See [implicit-depth official repository](https://github.com/NVlabs/implicit_depth);
 
 
-### module Preparation
+### Module Preparation
 
 ```
 pip install pytorch_wavelets
