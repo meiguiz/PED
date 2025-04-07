@@ -14,7 +14,7 @@ The code has been tested under
 ### Experiments
 
 ---
-The video of 6-Dof robotic experiments and object sorting experiments can be found at [this](https://www.youtube.com/watch?v=34z3rwaktbU). 
+The video of 6-Dof robotic experiments and object sorting experiments can be found at [this](https://youtu.be/5AJNk9uHMRA). 
 
 ![图片1](https://github.com/user-attachments/assets/4adee08f-cf99-4963-9f76-7e3ced54fd7a)
 
